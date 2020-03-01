@@ -1,0 +1,18 @@
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\bin\Debug\ComparativoCombustível.exe.config
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\bin\Debug\ComparativoCombustível.exe
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\bin\Debug\ComparativoCombustível.pdb
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\obj\Debug\ComparativoCombustível.csprojAssemblyReference.cache
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\obj\Debug\ComparativoCombustível.Properties.Resources.resources
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\obj\Debug\ComparativoCombustível.csproj.GenerateResource.cache
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\obj\Debug\ComparativoCombustível.exe
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\obj\Debug\ComparativoCombustível.pdb
+C:\Leonardo\TI\My Stuff\C#\Inicial\SolucaoCapitulo01\ComparativoCombustível\obj\Debug\ComparativoCombustível.GasolinaAlcool.resources
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\bin\Debug\ComparativoCombustível.exe.config
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\bin\Debug\ComparativoCombustível.exe
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\bin\Debug\ComparativoCombustível.pdb
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\obj\Debug\ComparativoCombustível.csprojAssemblyReference.cache
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\obj\Debug\ComparativoCombustível.GasolinaAlcool.resources
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\obj\Debug\ComparativoCombustível.Properties.Resources.resources
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\obj\Debug\ComparativoCombustível.csproj.GenerateResource.cache
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\obj\Debug\ComparativoCombustível.exe
+C:\Leonardo\TI\GitHub\C#\ComparativoCombustível\ComparativoCombustível\obj\Debug\ComparativoCombustível.pdb
